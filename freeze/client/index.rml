@@ -1,0 +1,14 @@
+<rml>
+
+  <head>
+    <title>Test</title>
+    <style>
+      img {
+        position: absolute;
+      }
+    </style>
+  </head>
+
+  <body>
+  </body>
+</rml>
